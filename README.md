@@ -1,4 +1,6 @@
    About Data
+
+   
 These are the awesome details about Customer Churn dataset page. This dataset is primed for exploratory data analysis, customer segmentation, predictive modeling to churn behaviour, and the development of customer retention strategies. It offers rich insights for business strategists, data scientists, and researchers interested in improving customer loyalty and reducing churn rates.
 
 We are Group 12. I am Adnan and my team member khaja.
